@@ -1,0 +1,6 @@
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\bin\Debug\AcmeSchedules.exe.config
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\bin\Debug\AcmeSchedules.exe
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\bin\Debug\AcmeSchedules.pdb
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\obj\Debug\AcmeSchedules.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\obj\Debug\AcmeSchedules.exe
+C:\Users\user\Documents\ioet\ACME Test\AcmeSchedules\obj\Debug\AcmeSchedules.pdb
